@@ -1,0 +1,2 @@
+rootProject.name = "SimpleNotif"
+include ':app'

@@ -1,0 +1,2 @@
+rootProject.name = "MyReadWriteFile"
+include ':app'

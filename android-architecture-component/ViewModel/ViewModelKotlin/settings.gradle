@@ -1,0 +1,2 @@
+rootProject.name = "ViewModelKotlin"
+include ':app'

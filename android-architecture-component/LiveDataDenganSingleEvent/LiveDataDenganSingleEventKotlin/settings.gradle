@@ -1,0 +1,2 @@
+rootProject.name = "LiveDataDenganSingleEventKotlin"
+include ':app'

@@ -1,0 +1,2 @@
+rootProject.name = "SettingPreference"
+include ':app'

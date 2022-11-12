@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LiveDataJava</string>
+    <string name="seconds">%d seconds elapsed</string>
+    <string name="hello_andika">Hello Andika!</string>
+</resources>
